@@ -1,0 +1,6 @@
+{
+  "error_page": {
+    "general": "Something went wrong",
+    "button_message": "Go back to the previous pages"
+  }
+}
