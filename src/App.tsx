@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
   return (
     <Stack>
-      <Typography>test</Typography>
+      <Typography>test2</Typography>
     </Stack>
   );
 }
